@@ -1,4 +1,5 @@
-./first_script.py
-virt
-venv
 
+.venv/selenium_course/lessons3/geckodriver.log
+*.log
+
+.venv/Lib/site-packages/*
