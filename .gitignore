@@ -1,6 +1,5 @@
-
 .venv/selenium_course/lessons3/geckodriver.log
 *.log
 
-venv/Lib/site-packages/
+venv/
 site-packages/
